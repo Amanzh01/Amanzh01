@@ -31,7 +31,7 @@
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
-- :soccer: Enjoy playing football
+- :soccer: Also, I enjoy playing football
 
 ---
 
