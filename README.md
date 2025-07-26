@@ -1,9 +1,14 @@
+🎓 MSc in Financial Mathematics, The Hong Kong University of Science and Technology
+🎓 BSc in Mathematics, and in Computer Science, The Hong Kong University of Science and Technology
+
+📫 Contact: amanzholkuantay@gmail.com | 📞 +852 65395083
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <div align="center" id="badges">
-  <a href="https://www.linkedin.com/in/amanzhol-kuantay-53723b170/">
+  <a href="https://www.linkedin.com/in/amanzholkuantay/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/Amanzh01">
